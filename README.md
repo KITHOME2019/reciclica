@@ -1,0 +1,2 @@
+# reciclica
+Ionic App
